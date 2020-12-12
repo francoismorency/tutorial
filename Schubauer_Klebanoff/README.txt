@@ -1,5 +1,4 @@
-NACA 0012 grid from https://turbmodels.larc.nasa.gov/naca0012_val.html
-65 points on airfoil surface
+Zero pressuer gradient flat plate test case
 
-compressible RANS, Spalart-Allmaras turbulence model
-HLLC solver
+incompressible RANS, Spalart-Allmaras turbulence model with BC solver
+constant density
